@@ -15,3 +15,7 @@ FEATURES:
 - Implementation of machine learning algorithms for adaptive forecasting.
 - Enhancement of visualization tools for better data interpretation.
 - Collaboration with government agencies and disaster management organizations for broader implementation and impact.
+
+
+Here, the perfectly blended user-friendly front end is attached for the viewer's kind persual: 
+https://onecompiler.com/html/4298q77dc
